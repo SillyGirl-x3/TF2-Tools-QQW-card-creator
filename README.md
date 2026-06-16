@@ -1,4 +1,4 @@
 # TF2 Tools
-Website with tools for Qnz Questionable Wiki in particular
+Website with tools for Qnz Questionable Wiki in particular, the only changes made are to the custom weapon creator
 
 https://SillyGirl-x3/TF2-Tools-QQW-card-creator
