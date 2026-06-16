@@ -21,6 +21,7 @@
   --w_negative: #FF4040;
   --w_neutral: #EBE2CA;
   --w_ancient: #E1A15F;
+  --w_yellow: #dfcb33;
   --w_level: #756B5E;
 
   --item_ItemSetName: #E1FF0F;
@@ -1563,6 +1564,10 @@ hr {
 
 .ancient {
 	color: var(--w_ancient);
+}
+
+.yellow {
+	color: var(--w_yellow);
 }
 
 .custom_stat_select {
