@@ -345,6 +345,7 @@ document.getElementById("addCustomWeaponStatButton").addEventListener("click", f
         <option value="negative">Negative</option>
         <option value="neutral">Neutral</option>
 		<option value="ancient">Ancient</option>
+		<option value="yellow">Yellow</option>
       </select>
       <button class="removeCustomStatButton"><i class="icon">&#xe922</i></button>
     `;
@@ -822,6 +823,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <option value="negative" ${status === "negative" ? "selected" : ""}>Negative</option>
           <option value="neutral" ${status === "neutral" ? "selected" : ""}>Neutral</option>
 		   <option value="ancient" ${status === "ancient" ? "selected" : ""}>Ancient</option>
+		   <option value="yellow" ${status === "yellow" ? "selected" : ""}>Yellow</option>
         </select>
         <button class="removeCustomStatButton"><i class="icon">&#xe922</i></button>
       `;
