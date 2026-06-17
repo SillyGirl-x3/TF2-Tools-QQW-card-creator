@@ -22,7 +22,7 @@
   --w_neutral: #EBE2CA;
   --w_ancient: #E1A15F;
   --w_yellow: #dfcb33;
-  --w_queer: #da70d6;
+  --w_isQueer: #da70d6;
   --w_level: #756B5E;
 
   --item_ItemSetName: #E1FF0F;
@@ -1571,8 +1571,8 @@ hr {
 	color: var(--w_yellow);
 }
 
-.queer {
-	color: var(--w_queer);
+.isQueer {
+	color: var(--w_isQueer);
 }
 
 .custom_stat_select {
